@@ -168,12 +168,9 @@ margin: 0;
 
  .yellow{background-color: #FFF7E8}
 
- .f_img{
+ .f_img{width: 100%
 
  }
- .f_img img{width: 100%}
-
-
 
  .f_single h2{font-size: 22px;
  	margin: 20px 0;
